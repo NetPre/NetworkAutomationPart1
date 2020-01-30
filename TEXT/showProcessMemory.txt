@@ -1,0 +1,18 @@
+ PID TTY  Allocated      Freed    Holding    Getbufs    Retbufs Process
+   0   0   48786728   20438520   24403040          0          0 *Init*          
+   0   0      24056      52512      24056          0          0 *Sched*         
+   0   0      27688       3992       1400     358584     358584 *Dead*          
+   0   0          0          0     394416          0          0 *MallocLite*    
+   1   0     569560       1552     581016          0          0 Chunk Manager   
+   2   0        240        240       7008          0          0 Load Meter      
+   3   0        240          0      25280          0          0 LSD Main Proc   
+   4   0      65592          0      98600          0          0 EDDRI_MAIN      
+   5   0       1776          0      14856          0          0 Check heaps     
+   6   0          0          0      13008          0          0 Pool Manager    
+   7   0        240        240      13008          0          0 Timers          
+   8   0          0          0      25008          0          0 OIR Handler     
+   9   0          0          0      13008          0          0 IPC Process leve
+  10   0          0          0      13008          0          0 IPC Dynamic Cach
+  11   0          0          0      13008          0          0 IPC Zone Manager
+  12   0          0          0      13008          0          0 IPC Service NonC
+  13   0          0          0      13008          0          0 IPC Periodic Tim
